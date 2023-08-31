@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fessynam
-- 👀 I’m interested in ...AI
-- 🌱 I’m currently learning ...JAVA
+- 👀 I’m interested in ...AI, machine learning, DevOps and ajile
+- 🌱 I’m currently learning and learned...JAVA,python,java script,css, ballerina and PHP
 - 💞️ I’m looking to collaborate on ...BUILDING PROJECTS
-- 📫 How to reach me ...festusalpheus@gmail.com 
+- 📫 How to reach me ...festusalpheus@gmail.com /fessynam.wordpress.com
 
 
 <!---
