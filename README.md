@@ -6,15 +6,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Booking**
+- 🔭 I’m have worked on **Hotel Booking**
+- I’m have worked on **Budget App in Kotlin**
 
-- 🌱 I’m currently learning **Ballerina, C++**
+- 🌱 I’m currently learning **React Native, Python**
 
-- 🤝 I’m looking for help with **Ballerina, Java**
+- 🤝 I’m looking for help with **DevOps**
 
-- 📝 I regularly write articles on [Twitter](Twitter)
+- 📝 I regularly write write codes, even when i don't feel like it
 
-- 💬 Ask me about **CSS,PHP,JAVASCRIPT, SQL,HTML**
+- 💬 Ask me about **CSS, HTML, PHP, JAVASCRIPT, SQL, PowerBI, MS Acces**
 
 - 📫 How to reach me **festusalpheus@gmail.com**
 
