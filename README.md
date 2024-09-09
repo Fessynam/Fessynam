@@ -4,7 +4,7 @@
 ![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)
 
 <h1 align="center">Hi 👋, I'm FessyNam</h1>
-<h2 align="center">"Developer from Namibia, Coding wuth passion"</h2>
+<h2 align="center">"Developer from Namibia, Coding with passion 🌱"</h2>
 <img align="right" alt="Coding" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 <p align="left">
