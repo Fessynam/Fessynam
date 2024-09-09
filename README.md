@@ -1,20 +1,13 @@
 <!-- Replace the current MasterHead GIF with your custom SVG -->
+# FessyNam Tech Solutions
+
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
-    <!-- Your custom SVG content here -->
-    <rect width="100%" height="100%" fill="#f4f4f9" />
-    <!-- Add your SVG elements like logos, text, shapes, etc. -->
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="50" fill="#333">Welcome to FessyNam Tech Solutions</text>
-  </svg>
+  <img src="header.svg" width="800" height="400" alt="FessyNam Tech Solutions">
 </div>
 
 <h1 align="center">Hi 👋, I'm FessyNam</h1>
-
 <h3 align="center">FessyNam Tech Solutions</h3>
-
 <p align="center"><em>"Coding With Passion"</em></p>
-
-<p align="center"></p>
 
 <p align="center">
   <a href="https://twitter.com/yourtwitter" target="blank">
