@@ -4,7 +4,7 @@
 
 <h3 align="center">FessyNam Tech Solutions</h3>
 
-<p align="center"><em>A passionate developer from Namibia</em></p>
+<p align="center"><em>"Coding With Passion"</em></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fessynam&label=Profile%20views&color=0e75b6&style=flat" alt="fessynam" />
@@ -16,6 +16,10 @@
   </a>
 </p>
 
+### About FessyNam Tech Solutions
+
+FessyNam Tech Solutions is dedicated to providing innovative and reliable technology solutions to meet the needs of businesses and individuals. With a focus on quality and customer satisfaction, we offer a range of services from software development to IT consulting. Our team of experts works closely with clients to deliver tailored solutions that drive success and efficiency.
+
 <img align="right" alt="Coding" width="300" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 ### About Me
@@ -24,9 +28,24 @@
 - 🌱 I'm currently learning **React Native, Python**
 - 🤝 I'm looking for help with **DevOps**
 - 📝 I regularly write code, even when I don't feel like it
-- 💬 Ask me about **CSS, HTML, PHP, JavaScript, SQL, PowerBI, MS Access**
-- 📫 How to reach me: **festusalpheus@gmail.com**
+- 💬 Ask me about **CSS, HTML, PHP, JavaScript,React, SQL, PowerBI, MS Access**
+- 📫 How to reach me: **info@fessynam.com**
 - ⚡ Fun fact: **I think I like coding more**
+
+### Our Services
+
+1. **Web Hosting**: Reliable and secure web hosting services to keep your site up and running smoothly.
+2. **Software Verification & Validation**: Ensuring software reliability, functionality, and compliance with industry standards.
+3. **Data Analytics**: Business intelligence, data visualization, and predictive analytics.
+4. **Cybersecurity**: Security audits, threat analysis, and protection solutions.
+5. **Consulting Services**: IT strategy, digital transformation, and technology advisory.
+6. **Maintenance & Support**: Ongoing support, bug fixes, and software updates.
+7. **Digital Marketing**: Content marketing, social media management, and email marketing.
+8. **E-commerce Solutions**: Online store setup, payment gateway integration, and e-commerce strategy.
+9. **Operating System Setup & Optimization**: Setup, configuration, and optimization of operating systems for optimal performance.
+10. **SEO Services**: Comprehensive SEO strategies to enhance your website's visibility and ranking on search engines.
+11. **API Development**: Design and develop robust APIs to facilitate seamless integration and functionality across your applications.
+12. **UI/UX Design**: Create intuitive and engaging user interfaces with exceptional user experiences to drive user satisfaction and engagement.
 
 ### Connect with me
 
