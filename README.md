@@ -7,7 +7,8 @@
 <p align="center"><em>"Coding With Passion"</em></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fessynam&label=Profile%20views&color=0e75b6&style=flat" alt="fessynam" />
+<img src="https://camo.githubusercontent.com/fab919b932d3edda16993708c33790aedf8f212f1f031b1a119831c54d5dd873/68747470733a2f2f646576666f72756d2d75706c6f6164732e73332e6475616c737461636b2e75732d656173742d322e616d617a6f6e6177732e636f6d2f75706c6f6164732f6f726967696e616c2f34582f302f322f612f303261346239323034383730356336353330626330633661343864326366396663623661373464392e676966" alt="GIF">
+
 </p>
 
 <p align="center">
