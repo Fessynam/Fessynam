@@ -1,4 +1,12 @@
-![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)
+<!-- Replace the current MasterHead GIF with your custom SVG -->
+<div align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+    <!-- Your custom SVG content here -->
+    <rect width="100%" height="100%" fill="#f4f4f9" />
+    <!-- Add your SVG elements like logos, text, shapes, etc. -->
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="50" fill="#333">Welcome to FessyNam Tech Solutions</text>
+  </svg>
+</div>
 
 <h1 align="center">Hi 👋, I'm FessyNam</h1>
 
@@ -6,10 +14,7 @@
 
 <p align="center"><em>"Coding With Passion"</em></p>
 
-<p align="center">
-<img src="https://camo.githubusercontent.com/fab919b932d3edda16993708c33790aedf8f212f1f031b1a119831c54d5dd873/68747470733a2f2f646576666f72756d2d75706c6f6164732e73332e6475616c737461636b2e75732d656173742d322e616d617a6f6e6177732e636f6d2f75706c6f6164732f6f726967696e616c2f34582f302f322f612f303261346239323034383730356336353330626330633661343864326366396663623661373464392e676966" alt="GIF">
-
-</p>
+<p align="center"></p>
 
 <p align="center">
   <a href="https://twitter.com/yourtwitter" target="blank">
