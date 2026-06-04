@@ -16,7 +16,7 @@
 </p>
 
 ## About Datalani Technology
-Datalani Technology is dedicated to providing innovative and reliable technology solutions to meet the needs of businesses and individuals. With a focus on quality and customer satisfaction, we offer a range of services from software development to IT consulting. Our team of experts works closely with clients to deliver tailored solutions that drive success and efficiency.
+As CEO of Datalani Technology, we are dedicated to provide innovative and reliable technology solutions to meet the needs of businesses and individuals. With a focus on quality and customer satisfaction, we offer a range of services from software development to IT consulting. Our team of experts works closely with clients to deliver tailored solutions that drive success and efficiency.
 
 ## About Me
 - 🔭 I have worked on **Hotel Booking** and **Budget App in Kotlin**
@@ -24,7 +24,7 @@ Datalani Technology is dedicated to providing innovative and reliable technology
 - 🤝 I'm looking for help with **DevOps**
 - 📝 I regularly write code, even when I don't feel like it
 - 💬 Ask me about **CSS, HTML, PHP, JavaScript, React, SQL, PowerBI, MS Access**
-- 📫 How to reach me: **info@fessynam.com**
+- 📫 How to reach me: **festus@datalano.com**
 - ⚡ Fun fact: I think I like coding more
 
 ## Our Services
